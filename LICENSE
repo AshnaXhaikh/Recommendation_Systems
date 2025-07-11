@@ -1,0 +1,27 @@
+MIT License
+
+Copyright (c) 2025 AshnaXhaikh
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+
+This README includes:
+
+1. **Project Overview**: Brief description and features
+2. **Setup Instructions**: Installation and requirements
+3. **Data Pipeline**: From raw data to cleaned features
+4. **Core Algorithms**: Recommendation logic explained
+5. **Image Handling**: Cover display system
+6. **Usage Guide**: How to run and interact
+7. **Customization Options**: CSS and parameters
+8. **Technical Specs**: Dependencies and license
+
+The document flows from data preprocessing through to the final Gradio interface, providing a complete picture of the project while keeping technical explanations clear and actionable.
