@@ -10,7 +10,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 # Load data
 @st.cache_data
 def load_data():
-    df = pd.read_csv("books_data.csv")
+    df = pd.read_csv("content-based/data/books_data.csv")
     tfidf = TfidfVectorizer(stop_words='english', max_features=5000)
     tfidf_matrix = tfidf.fit_transform(df['text_for_tfidf'])
     return df, tfidf, tfidf_matrix
